@@ -1,4 +1,4 @@
-# YTMusic
+# (Python) Case Counter
 A simple Python json logger
 
 `🟢 This Release is up to date`
